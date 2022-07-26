@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url('C:/Users/Wang Nam/Desktop/Portfolio codes/Image/background.jpg');
+	background-image: url('./Image/background.jpg');
 	background-size: cover;
 	background-position: top center;
 	position: relative;
